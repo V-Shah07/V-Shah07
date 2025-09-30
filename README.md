@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Vivaan Shah
+
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Algorithm+Enthusiast;Full+Stack+Engineer;AI%2FML+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Algorithm+Enthusiast;Full+Stack+Engineer;AI%2FML+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 </div>
 
 ## 🚀 About Me
@@ -42,7 +45,7 @@ Passionate **Software Developer** and CS student at **Georgia Tech** with expert
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Tools & Platforms
 
