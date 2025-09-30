@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Vivaan Shah
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Algorithm+Enthusiast;Full+Stack+Engineer;AI%2FML+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Algorithm+Enthusiast;Full+Stack+Engineer;AI%2FML+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 </div>
 
 ## 🚀 About Me
@@ -50,10 +47,10 @@ Passionate **Software Developer** and CS student at **Georgia Tech** with expert
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ---
@@ -61,84 +58,55 @@ Passionate **Software Developer** and CS student at **Georgia Tech** with expert
 ## 📌 Featured Projects
 
 ### 📱 [JainScan](https://github.com/V-Shah07/JainScan)
-**Ingredient Scanner Mobile App** | React Native, JavaScript, MongoDB, OpenAI API
+**Ingredient Scanner Mobile App | React Native, JavaScript, MongoDB, OpenAI API**
 
 Full-stack cross-platform mobile app to help members of the Jain religion identify foods they can't eat through ingredient scanning. Published on App Store with 125+ downloads and 95%+ accuracy using OpenAI API and Tesseract.js OCR.
 
 ### 🤖 [PromptlyAI](https://github.com/V-Shah07/PromptlyAI)
-**AI-Powered Productivity Suite** | TypeScript, React, AI APIs
+**AI-Powered Productivity Suite | TypeScript, React, AI APIs**
 
 An intelligent productivity tool that leverages AI to streamline workflows and enhance user productivity with smart suggestions and automation.
 
 ### 🏠 [Smart Home Security Cam](https://github.com/V-Shah07/SmartHomeCam)
-**AI-Powered Security System** | Python, Flask, OpenCV, Raspberry Pi
+**AI-Powered Security System | Python, Flask, OpenCV, Raspberry Pi**
 
 AI-powered security system with facial recognition and real-time monitoring capabilities. Reduced false alarms by 87% using custom facial recognition algorithms with real-time video streaming and automated email alerts.
 
 ### 📚 [Study Companion](https://github.com/V-Shah07/StudyCompanion)
-**AI Study App** | React Native, Firebase, OpenAI API, Whisper API
+**AI Study App | React Native, Firebase, OpenAI API, Whisper API**
 
 Comprehensive AI-powered mobile study application featuring intelligent note organization with AI subject classification across 11+ categories, multimodal input capabilities (OCR and voice transcription), Pomodoro focus sessions, and advanced analytics dashboard.
 
 ### 🌍 [Visual Language Learning Tool](https://github.com/V-Shah07/LanguageLearning)
-**Multimodal AI Language App** | Python, Gradio, Hugging Face, PyTorch
+**Multimodal AI Language App | Python, Gradio, Hugging Face, PyTorch**
 
 Multimodal language learning application built with 12+ specialized Hugging Face models including Helsinki-NLP translation, Facebook MMS-TTS speech synthesis, and FLUX.1-dev image generation for immersive learning across 4 languages.
-
-### 🏗️ [RescueMaze](https://github.com/V-Shah07/RescueMaze)
-**Maze Navigation Simulator** | C++
-
-Simulation of autonomous robot navigation through complex maze environments using pathfinding algorithms. Features real-time decision making and obstacle avoidance with DFS and BFS algorithms.
-
-### 🎮 [MiniMax](https://github.com/V-Shah07/MiniMax)
-**Unbeatable Tic-Tac-Toe AI** | C++
-
-Implementation of the MiniMax algorithm using DFS to create an unbeatable AI opponent for tic-tac-toe. Achieved 85%+ win rate with zero losses across 10,000+ simulations using Minimax with alpha-beta pruning.
-
-### 📊 [CSVSorter](https://github.com/V-Shah07/CSVSorter)
-**CSV Data Processor** | C++
-
-Efficient tool for sorting and processing CSV files with support for multiple column sorting and custom comparators.
 
 ---
 
 ## 🏆 Highlights
 
-- 🎯 **85+ contributions** in the last year
-- 🌟 **38+ public repositories**
-- 📱 **Published mobile app** on App Store
-- 🤝 **Open source contributor**
-- 💻 Specializing in **AI/ML**, **mobile development**, and **algorithms**
+- 🎯 85+ contributions in the last year
+- 🌟 38+ public repositories
+- 📱 Published mobile app on App Store
+- 🤝 Open source contributor
+- 💻 Specializing in AI/ML, mobile development, and algorithms
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V-Shah07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vivaanportfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V-Shah07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vivaanportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivaan-shah/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshah407@gatech.edu)
 
-</div>
-
 ---
 
-<div align="center">
-  
-### 💭 Quote of the Day
+## 💭 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
 ---
 
-<div align="center">
-  
-**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
-
-![Visitor Count](https://profile-counter.glitch.me/V-Shah07/count.svg)
-
-</div>
+Thanks for visiting! ⭐ Star my repos if you find them interesting!
